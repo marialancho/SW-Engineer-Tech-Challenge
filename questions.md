@@ -40,4 +40,4 @@ Keep the server, dependencies, and libraries updated to protect against known vu
 
 
 **Secure Storage:**
-Encrypt sensitive data within the database to prevent unauthorized access if the storage medium is compromised.  This could be implemented with the library sqlcipher, since we have a SLite database.
+Encrypt sensitive data within the database to prevent unauthorized access if the storage medium is compromised.  This could be implemented with the library sqlcipher, since we have a SQLite database.

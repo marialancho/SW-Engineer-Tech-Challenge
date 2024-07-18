@@ -9,3 +9,7 @@ venv/
 # Ignore other common files
 .DS_Store
 *.egg-info/
+
+# Ignore SQLite temporary files
+*.db-shm
+*.db-wal
