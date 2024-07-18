@@ -24,17 +24,16 @@ This repository contains the needed files for an end-to-end system following a c
 
 ### Dependencies
 
-    ```
+    
     pip install -r requirements.txt
-    ```
+    
 
 ## Set up the PACS system using Docker:
 
-    ```
+    
     docker run -p 4242:4242 -p 6667:6667 -p 8042:8042 floymedical/pacs_technical_challenge
-    ```
+    
 
-``
 
 ## Running the Server
 
